@@ -4,7 +4,9 @@ Projeto desenvolvido em React.js.
 
 ## 👀 Demo
 
-![SFN](https://github.com/user-attachments/assets/5af1f6d5-b1a1-4b1c-81d2-4f06b0760058)
+![image](https://github.com/user-attachments/assets/3b296da8-6f1a-4c40-b776-2950d836929c)
+
+
 
 ## 🚀 Tecnologias
 
