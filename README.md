@@ -21,8 +21,8 @@ Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 - JavaScript
 - TypeScript
 - React.js
-- [vs code][vc]
-
+- [vs code](https://code.visualstudio.com/download)
+- [react loader spinner](https://mhnpd.github.io/react-loader-spinner/docs/intro/)
 ---
 
 ⌨️ com ❤️ por [Catarina Guimarães](https://github.com/catarinaguima) 
