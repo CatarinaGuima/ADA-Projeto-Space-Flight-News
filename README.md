@@ -1,11 +1,15 @@
 # Space-Flight-News
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7971226f-fa25-40a1-a50c-7d26b4feedb3/deploy-status)](https://app.netlify.com/sites/dessertsfood/deploys)
 
 Projeto desenvolvido em React.js.
 
 ## 👀 Demo
 
-![image](https://github.com/user-attachments/assets/3b296da8-6f1a-4c40-b776-2950d836929c)
+![image](https://github.com/user-attachments/assets/2e5afdd9-f0e7-4368-8f80-327059d16f22)
 
+### Links
+
+- Live Site URL: [clique aqui](https://spacenewsflight.netlify.app/)
 
 
 ## 🚀 Tecnologias
