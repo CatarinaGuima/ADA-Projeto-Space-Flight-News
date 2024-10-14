@@ -23,3 +23,11 @@ section#articles {
   flex-direction: column;
   gap: 46px;
 }
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 400px;
+}

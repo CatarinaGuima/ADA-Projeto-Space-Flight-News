@@ -2,8 +2,7 @@ import React from "react";
 import logo from "../../assets/images/logo.png";
 import "./style.css";
 
-class Navbar extends React.Component {
-  render() {
+export function Navbar() {
     return (
       <header>
         <nav id="navbar">
@@ -30,6 +29,5 @@ class Navbar extends React.Component {
       </header>
     );
   }
-}
 
 export default Navbar;
